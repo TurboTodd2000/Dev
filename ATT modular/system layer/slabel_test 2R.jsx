@@ -127,11 +127,6 @@ var myFont = app.fonts.item("Arial");
 for (var k = 0; k< pageNum.length; k++) {
 
 
-
-
-
-
-
   //get applied page master
   var currentPageMaster = myDocument.pages[k].appliedMaster.name;
 
